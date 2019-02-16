@@ -1,0 +1,24 @@
+#planheadingone{
+    font-family: 'Arial', Courier, monospace;
+    margin-top: 30px;
+}
+.planicondiv{
+    margin-left:-200px;
+    margin-top: 40px;
+}
+.planicon{
+    width: 60px;
+    height: 50px;
+    margin-left:200px;
+}
+
+.planicondi{
+    margin-left:-200px;
+    margin-top: 20px;
+}
+.planico{
+    display: inline;
+    width: 60px;
+    height: 50px;
+    margin-left:200px;
+}

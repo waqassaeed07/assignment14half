@@ -1,0 +1,49 @@
+.services{
+    margin-top: 30px;
+    background: url("./res/marketbackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.ourservicesdiv{
+    margin-bottom: 50px;
+}
+.marketleftp{
+    text-align: right;
+    border-right:3px solid blue; 
+    padding:10px;
+    background-color: rgb(140, 216, 252);
+    margin-bottom: 2px;
+}
+
+#markerscopingp{
+    padding-top: 50px;
+}
+#easyma{
+    padding-top: 50px;
+    text-align: left;
+}
+#easymap{
+    text-align: left;
+    font-size: 13px;
+}
+.lookingformain{
+    background-color: rgb(253, 71, 87);
+    color: white;
+    
+}
+.lookingpartenerh{
+    padding-top: 10px;
+    font-family: 'Courier', Courier, monospace;
+}
+.lookingforp{
+    text-align: left;
+    padding-left: 20px;
+    margin-top: -6px;
+}
+.lookingbtgetstarted{
+    margin-top: 10%;
+    border: none;
+    color: white;
+    background-color: rgb(11, 11, 77);
+    padding: 10px 20px 10px 20px;
+}

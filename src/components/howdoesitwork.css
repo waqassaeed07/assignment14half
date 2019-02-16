@@ -1,0 +1,41 @@
+#planheadingone{
+    font-family: 'Arial', Courier, monospace;
+    margin-top: 50px;
+}
+.supportdiv{
+    margin-left:-200px;
+    margin-top: 40px;
+}
+.workicon{
+    width: 130px;
+    height: 130px;
+    margin-left:200px;
+}
+
+#workdiv{
+    margin-left:180px;
+    margin-top: 20px;
+  
+}
+
+#workperaf{
+    margin-left: -850px;
+
+}
+#workperas{
+    margin-left: -190px;
+    margin-top: -75px;
+}
+#workperat{
+    margin-left: 500px;
+    margin-top: -100px;
+    
+}
+#workgetstarted{
+    margin-top: 80px;
+    background-color: red;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    
+}
